@@ -7,7 +7,8 @@ act overlay plugin that searches fflogs
 
 2. Unzip (want folder)
 
-3. ACT -> Plugins -> OverlayPlugin.dll -> add
--> Preset(custom) -> MiniParse -> Url -> index.html (UnZiped)
+3. ACT -> Plugins -> OverlayPlugin.dll -> add -> Name(fflogsexample) -> Preset(custom) -> MiniParse
 
-4. Done
+4. fflogsexample-> Url -> index.html (UnZiped)
+
+5. Done
